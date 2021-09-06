@@ -1,12 +1,27 @@
-# Getting Started with Create React App
+<p>
+    <img src='./src/assets/images/triple@2x.png' width="200px">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 목차 
 
-## Available Scripts
+- [사용 기술 스택](#사용-기술-스택)
+- [개발 기간](#개발-기간)
+- [Demo](#Demo)
+- [변경사항](#변경-사항)
 
-In the project directory, you can run:
+### 사용 기술 스택
 
-### 추가해야 할 사항 
+- React, StoryBook, typescript, react-spring
 
-- "babel-loader":"8.1.0"을 package.json에 추가해야 
+### 개발 기간 
+
+2021.08.28 ~ 2021.09.06
+
+### Demo
+
+![result](./readme_assets/result.gif)
+
+### 변경 사항 
+
+- "babel-loader":"8.1.0"을 package.json에 추가해야 함
 
